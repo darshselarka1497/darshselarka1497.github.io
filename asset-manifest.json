@@ -1,14 +1,14 @@
 {
-  "main.css": "darshselarka1497.github.io/static/css/main.a861ab4f.chunk.css",
-  "main.js": "darshselarka1497.github.io/static/js/main.9e9ee8c1.chunk.js",
-  "main.js.map": "darshselarka1497.github.io/static/js/main.9e9ee8c1.chunk.js.map",
-  "static/js/1.3f0916eb.chunk.js": "darshselarka1497.github.io/static/js/1.3f0916eb.chunk.js",
-  "static/js/1.3f0916eb.chunk.js.map": "darshselarka1497.github.io/static/js/1.3f0916eb.chunk.js.map",
-  "runtime~main.js": "darshselarka1497.github.io/static/js/runtime~main.4d94b495.js",
-  "runtime~main.js.map": "darshselarka1497.github.io/static/js/runtime~main.4d94b495.js.map",
-  "static/media/Selarka_Darsh.pdf": "darshselarka1497.github.io/static/media/Selarka_Darsh.f37a0a86.pdf",
-  "static/css/main.a861ab4f.chunk.css.map": "darshselarka1497.github.io/static/css/main.a861ab4f.chunk.css.map",
-  "index.html": "darshselarka1497.github.io/index.html",
-  "precache-manifest.6b508746d7a3f8aeeab8a7e648391e58.js": "darshselarka1497.github.io/precache-manifest.6b508746d7a3f8aeeab8a7e648391e58.js",
-  "service-worker.js": "darshselarka1497.github.io/service-worker.js"
+  "main.css": "/static/css/main.a861ab4f.chunk.css",
+  "main.js": "/static/js/main.8909bb45.chunk.js",
+  "main.js.map": "/static/js/main.8909bb45.chunk.js.map",
+  "static/js/1.3f0916eb.chunk.js": "/static/js/1.3f0916eb.chunk.js",
+  "static/js/1.3f0916eb.chunk.js.map": "/static/js/1.3f0916eb.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.229c360f.js",
+  "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
+  "static/media/Selarka_Darsh.pdf": "/static/media/Selarka_Darsh.f37a0a86.pdf",
+  "static/css/main.a861ab4f.chunk.css.map": "/static/css/main.a861ab4f.chunk.css.map",
+  "index.html": "/index.html",
+  "precache-manifest.c3c64e2a86a731f3d1dbe345ab8e49fe.js": "/precache-manifest.c3c64e2a86a731f3d1dbe345ab8e49fe.js",
+  "service-worker.js": "/service-worker.js"
 }
