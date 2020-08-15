@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "0e3c760707f30fee94a2",
+    "revision": "d61bc68040badaba5284",
     "url": "/static/css/main.6cdac4d4.chunk.css"
   },
   {
-    "revision": "0e3c760707f30fee94a2",
-    "url": "/static/js/main.0e3c7607.chunk.js"
+    "revision": "d61bc68040badaba5284",
+    "url": "/static/js/main.d61bc680.chunk.js"
   },
   {
     "revision": "9c9a122511ead04c2007",
@@ -16,11 +16,11 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.229c360f.js"
   },
   {
-    "revision": "0e16629aa1f5842b27cfb7987eaa6de8",
-    "url": "/static/media/Darsh_Selarka.0e16629a.pdf"
+    "revision": "8b1f3bdfa93f0de8dd1b1b198c044171",
+    "url": "/static/media/Resume.8b1f3bdf.pdf"
   },
   {
-    "revision": "51afef360356a54e22b030ca97504a61",
+    "revision": "9e4ec5ed8e70ad51a62fac15d87a85a0",
     "url": "/index.html"
   }
 ];
